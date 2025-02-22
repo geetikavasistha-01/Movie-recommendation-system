@@ -1,5 +1,7 @@
-
 # Movie Recommendation System
+
+## Image
+<img width="412" alt="Screenshot 2025-02-22 at 7 21 34 PM" src="https://github.com/user-attachments/assets/e11750e4-0cb7-441a-b1fd-52d21b3dbc1f" />
 
 ## Overview
 The **Movie Recommendation System** is a machine learning-based project that suggests movies to users based on their preferences. This project leverages Python, machine learning algorithms, and Scikit-learn to provide personalized recommendations.
@@ -13,7 +15,7 @@ The **Movie Recommendation System** is a machine learning-based project that sug
 ## Tech Stack
 - **Programming Language:** Python
 - **Libraries:** Scikit-learn, Pandas, NumPy
-- **Dataset:** TMDB 5000 Movie Dataset available on kaggle
+- **Dataset:** [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## Installation
 1. Clone the repository:
@@ -74,4 +76,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 This project is licensed under the MIT License.
-
