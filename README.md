@@ -2,7 +2,7 @@
 
 ## Image
 <img width="412" alt="Screenshot 2025-02-22 at 7 21 34 PM" src="https://github.com/user-attachments/assets/e11750e4-0cb7-441a-b1fd-52d21b3dbc1f" />
-
+https://www.fynd.academy/blog/movie-recommendation-system
 ## Overview
 The **Movie Recommendation System** is a machine learning-based project that suggests movies to users based on their preferences. This project leverages Python, machine learning algorithms, and Scikit-learn to provide personalized recommendations.
 
